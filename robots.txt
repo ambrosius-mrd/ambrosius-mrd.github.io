@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ambrosius-mrd.github.io/sitemap.xml
+
+# Blokir folder yang tidak perlu (opsional)
+Disallow: /assets/
+Disallow: /.github/
